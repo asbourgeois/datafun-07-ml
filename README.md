@@ -1,5 +1,9 @@
 # datafun-07-ml
 
+## Some Details
+- Author: Alexia Bourgeois
+- Date: 23-02-2026
+
 
 ## Resources
 
