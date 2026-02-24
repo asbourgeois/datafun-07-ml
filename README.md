@@ -4,6 +4,13 @@
 - Author: Alexia Bourgeois
 - Date: 23-02-2026
 
+## Update Constantly
+```
+git pull
+git add -A
+git commit -m "update"
+git push -u origin main
+```
 
 ## Resources
 
