@@ -1,10 +1,10 @@
-# datafun-04-notebooks
+# datafun-07-ml
 
 <!-- TODO: update the GitHub account name to match YOUR GitHub account name -->
 
-[![Docs Deploy](https://github.com/asbourgeois/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml/badge.svg?branch=main)](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml)
-[![CI](https://github.com/asbourgeois/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml/badge.svg?branch=main)](https://github.com/asbourgeois/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml)
-[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://asbourgeois.github.io/datafun-04-notebooks/)
+[![Docs Deploy](https://github.com/asbourgeois/datafun-07-ml/actions/workflows/deploy-mkdocs.yml/badge.svg?branch=main)](https://github.com/denisecase/datafun-07-ml/actions/workflows/deploy-mkdocs.yml)
+[![CI](https://github.com/asbourgeois/datafun-07-ml/actions/workflows/ci-basic-mkdocs.yml/badge.svg?branch=main)](https://github.com/asbourgeois/datafun-07-ml/actions/workflows/ci-basic-mkdocs.yml)
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://asbourgeois.github.io/datafun-07-ml/)
 [![Python](https://img.shields.io/badge/python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
 
 > Professional Python project: exploratory data analysis with Jupyter notebooks.
@@ -47,13 +47,13 @@ Follow the detailed instructions at:
 3. Clone to local: Open a **machine terminal** in your **`Repos`** folder and clone your new repo.
 
   ```shell
-  git clone https://github.com/asbourgeois/datafun-04-notebooks
+  git clone https://github.com/asbourgeois/datafun-07-ml
   ```
 
 4. Open project in VS Code: Change directory into the repo and open the project in VS Code by running `code .` ("code dot"):
 
   ```shell
-  cd datafun-04-notebooks
+  cd datafun-07-ml
   code .
   ```
 
@@ -104,7 +104,7 @@ Commands are provided below to:
 4. Save progress with Git add-commit-push
 5. Update project files
 
-VS Code should have only this project (datafun-04-notebooks) open.
+VS Code should have only this project (datafun-07-ml) open.
 Use VS Code menu option `Terminal` / `New Terminal` and run the following commands:
 
 ```shell
