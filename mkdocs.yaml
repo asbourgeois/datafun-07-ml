@@ -10,9 +10,9 @@
 
 site_name: "Project Documentation"
 #TODO: Change to your GitHub Pages URL.
-site_url: https://asbourgeois.github.io/datafun-03-analytics/
+site_url: https://asbourgeois.github.io/datafun-07-ml/
 #TODO: Change to your GitHub repository URL.
-repo_url: https://github.com/asbourgeois/datafun-03-analytics
+repo_url: https://github.com/asbourgeois/datafun-07-ml
 site_description: Project documentation.
 docs_dir: docs
 site_dir: site
@@ -20,7 +20,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       #TODO: Change to your GitHub repository URL.
-      link: https://github.com/asbourgeois/datafun-03-analytics
+      link: https://github.com/asbourgeois/datafun-07-ml
 
 # WHY: Material theme is industry standard, well-documented
 theme:
